@@ -1,0 +1,11 @@
+name: delta_lambda
+channels:
+  - defaults
+dependencies:
+  - python=3.9.7
+  - pandas
+  - seaborn
+  - scikit-learn
+
+prefix: /home/nickc1/miniconda3/envs/delta_lambda
+
